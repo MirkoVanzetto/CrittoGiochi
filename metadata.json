@@ -1,0 +1,5 @@
+{
+  "name": "CrittoGiochi",
+  "description": "A cryptography game app featuring Wordle and Caesar Cipher games.",
+  "requestFramePermissions": []
+}
